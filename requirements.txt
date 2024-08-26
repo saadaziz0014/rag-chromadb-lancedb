@@ -1,0 +1,12 @@
+python-dotenv
+langchain-core
+langchain-community
+langserve
+fastapi
+uvicorn[standard]
+sse_starlette
+bs4
+langchain-ollama
+chromadb
+lancedb
+scikit-learn
